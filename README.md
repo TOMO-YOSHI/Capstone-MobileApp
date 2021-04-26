@@ -1,6 +1,6 @@
 🚧️ This app is still WIP 🚧️
 # About
-![system_archtecture](assets/pivotcare_mobile_demo1.gif)
+![mobile_demo1](assets/pivotcare_mobile_demo1.gif)
 
 
 Pivot Care is a mobile application that helps companies to continue providing fitness and mental health care for their employees while they working from home.
@@ -30,6 +30,7 @@ To automate a deployment process, I have adopted CodePipeline and CodeDeploy, wh
 ## Mobile app
 In the mobile development, I utilized modern technology, React Native. To manage users' login condition and implement the search functionality, I used Context to manage global states effectively.
 
+![mobile_demo2](assets/pivotcare_mobile_demo2.gif)
 ## Back-end
 Our API server is created by using Node.js and MySQL.
 
